@@ -20,7 +20,7 @@ export default function About() {
       >
         <div className="w-80 h-80 md:w-96 md:h-96 rounded-3xl overflow-hidden border-8   border-white/30 backdrop-blur-lg shadow-2xl shadow-black/60 animate-float">
           <img 
-            src="src/assets/code.jpeg" 
+            src="/projects/code.jpeg" 
             alt="" 
             className="w-full h-full object-cover"
           />

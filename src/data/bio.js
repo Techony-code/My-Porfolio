@@ -9,7 +9,7 @@ export const bio = {
     "I build modern, scalable web applications and decentralized solutions with a focus on performance, clean architecture, and great user experience.",
   about:
     "I am a frontend and blockchain developer passionate about building high-quality digital products. I enjoy working with modern JavaScript frameworks, crafting clean UI experiences, and developing smart contracts and Web3 applications that solve real-world problems.",
-  profileImage: "src/assets/profile.jpg",
+  profileImage: "/projects/profile.jpg",
   socials: {
     github: "https://github.com/TECHONY",
     twitter: "",
