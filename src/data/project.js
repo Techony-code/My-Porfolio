@@ -42,7 +42,7 @@ export const projects = [
     demo: "https://carmo-minting.vercel.app/",
   },
   {
-    id: 9,
+    id: 5,
     title: "Decentralized Exchange",
     category: "blockchain",
     description: "Developed a decentralized exchange app that facilitate the trustless trading between tokens.",
@@ -50,5 +50,15 @@ export const projects = [
     stacks: ["Solidity", "Web3.js"],
     github: "https://github.com/Techony-code/Decentralized-Exchange-Hardhat-Solidity-Project",
     demo: "https://dex-challenge-beta.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "Student Portal",
+    category: "frontend",
+    description: "Developed a decentralized exchange app that facilitate the trustless trading between tokens.",
+    image: "/projects/student.png",
+    stacks: ["Solidity", "Web3.js"],
+    github: "https://github.com/Techony-code/Student-Dashboard",
+    demo: "https://student-dashboard-ten-self.vercel.app/",
   },
 ];
