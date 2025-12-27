@@ -55,7 +55,7 @@ export const projects = [
     id: 6,
     title: "Student Portal",
     category: "frontend",
-    description: "Developed a decentralized exchange app that facilitate the trustless trading between tokens.",
+    description: "This is a platform used to upload student data and Information",
     image: "/projects/student.png",
     stacks: ["Solidity", "Web3.js"],
     github: "https://github.com/Techony-code/Student-Dashboard",
